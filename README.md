@@ -1,6 +1,6 @@
 # Bootstrap_webpage
 
-Web page using HTML and Bootstrap.
+Web page using HTML and Bootstrap CDN.
 
 Welcome page:-
 
